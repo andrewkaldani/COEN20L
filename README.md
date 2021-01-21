@@ -1,5 +1,7 @@
 # COEN20L
 INTRO TO EMBEDDED SYSTEMS
+
+
 COURSE DESCRIPTION:
 Introduction to computer organization: CPU, registers, buses, memory, I/O interfaces. 
 Number systems: arithmetic and information representation. 
